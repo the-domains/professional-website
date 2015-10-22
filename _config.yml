@@ -1,0 +1,23 @@
+name: Professional Website
+favicon: null
+layout_spectrum: 0.896081329556182
+typography_spectrum: 0.13643680908717215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3077380331233144
+  lightness: 0.9680951749905944
+  saturation: 0.896937599638477
+  rhythmicContrast: 0.15867259725928307
+purpose: []
